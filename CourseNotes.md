@@ -1,6 +1,8 @@
 ---
-title: "Lie Algebras"
+ title: Lie Algebras
 ---
+
+!include sections/2019-08-10.md
 
 !include sections/2019-08-12.md
 
@@ -83,3 +85,4 @@ title: "Lie Algebras"
 !include sections/2019-12-02.md
 
 !include sections/2019-12-04.md
+
